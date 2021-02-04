@@ -1,4 +1,4 @@
-# GUI-YoutubeDownloader
+# Improved-GUI-YoutubeDownloader
 
 improved GUI youtube video downloader with tkinter and pytube.(you need to pip install pytube first)
 
