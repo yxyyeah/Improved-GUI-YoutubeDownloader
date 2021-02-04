@@ -4,4 +4,4 @@ improved GUI youtube video downloader with tkinter and pytube.(you need to pip i
 
 using try...excecpt... modules to prevent program collapse caused by poor internet connection.
 
-currently support downloading single video, not playlist.
+currently support downloading single video with multiple resolution choices and captions, not playlist.
