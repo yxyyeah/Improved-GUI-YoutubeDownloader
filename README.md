@@ -7,3 +7,5 @@ using try...excecpt... modules to prevent program collapse caused by poor intern
 currently support downloading single video with multiple resolution choices and captions, not playlist.
 
 ![app screenshot](eg.png?raw=true 'Title')
+
+if you encounter any problem feel free to report a issue.
