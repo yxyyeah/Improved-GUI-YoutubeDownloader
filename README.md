@@ -1,6 +1,8 @@
 # Improved-GUI-YoutubeDownloader
 
-improved GUI youtube video downloader with tkinter and pytube.(you need to pip install pytube first)
+First pip install pytube on your computer. Then git clone this repository.
+
+improved GUI youtube video downloader with tkinter and pytube.
 
 using try...excecpt... modules to prevent program collapse caused by poor internet connection.
 
